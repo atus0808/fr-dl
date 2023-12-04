@@ -1,0 +1,3 @@
+This repository contains code, developed in Google Colab, for thesis "Discriminant sparse dictionary learning based on Fisher’s ratio".
+While citations are already present in the dissertation, we remind that the code for OMP, which can be found in the main Python notebook "FR-DL", was taken from paper "Efficient Batched CPU/GPU Implementation of Orthogonal Matching
+Pursuit for Python", which has a repository at the following link: https://github.com/ariellubonja/omp-parallel-gpu-python .
